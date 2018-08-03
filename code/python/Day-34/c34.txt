@@ -1,2 +1,3 @@
 Questions
 1.Write a Python Program to Check Whether a String is Palindrome or Not
+2.Write a Python Program to Remove Punctuations From a String
