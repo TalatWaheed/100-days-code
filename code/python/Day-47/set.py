@@ -1,0 +1,5 @@
+print(set())
+print(set('Python'))
+print(set(('a', 'e', 'i', 'o', 'u')))
+print(set(['a', 'e', 'i', 'o', 'u']))
+print(set(range(5)))
