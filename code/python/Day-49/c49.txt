@@ -1,0 +1,4 @@
+1.How getattr() works in Python?
+2.getattr() when named attribute is not found
+3.How globals() method works in Python?
+4.Modify global variable using global()
