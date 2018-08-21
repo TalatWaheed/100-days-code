@@ -1,0 +1,5 @@
+1.How int() works in Python?
+2.How int() works for decimal, octal and hexadecimal?
+3.int() for custom objects
+4.How isinstance() works?
+5.Working of isinstance() with Native Types
