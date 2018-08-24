@@ -1,0 +1,5 @@
+1.How memoryview() works in Python?
+2.Modify internal data using memory view
+3.Find minimum among the given numbers
+4.Find number whose sum of digits is smallest using key function
+5.Find list with minimum length using key function
