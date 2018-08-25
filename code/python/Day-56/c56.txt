@@ -1,0 +1,5 @@
+1.How next() works?
+2.Iterator With Default Value
+3.How object() works?
+4.How oct() works in Python?
+5.How oct() for custom objects by implementing __index__()?
