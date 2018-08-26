@@ -1,0 +1,5 @@
+1.How ord() works in Python?
+2.Create attribute with getter, setter and deleter using property()
+3.Create attribute with getter, setter and deleter using @property decorator
+4.How repr() works in Python?
+5.Implement __repr__() for custom objects?
