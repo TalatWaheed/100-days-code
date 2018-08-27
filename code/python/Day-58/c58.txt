@@ -1,0 +1,5 @@
+1.How reversed works for a sequence: string, tuple, list and range?
+2.How reversed works for custom objects by implementing __reversed__()?
+3.Create a static method using staticmethod()
+4.Create utility function as a static method
+5.How inheritance works with static method?
