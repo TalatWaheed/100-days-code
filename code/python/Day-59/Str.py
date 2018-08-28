@@ -1,0 +1,5 @@
+print(str('10'))
+print(str('20'))
+print(str('5'))
+print(str('35'))
+print(str('50'))
