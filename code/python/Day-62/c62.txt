@@ -1,0 +1,16 @@
+1.How __import()__ works?
+2.How to use lambda function with map()?
+3.Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5,
+between 2000 and 3200 (both included)
+4.With a given integral number n, write a program to generate a dictionary that contains (i, i*i) such that is an integral number between 1 and n (both included). and then the program should print the dictionary.
+Suppose the following input is supplied to the program:
+8
+Then, the output should be:
+{1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64}
+5.Write a program that accepts sequence of lines as input and prints the lines after making all characters in the sentence capitalized.
+Suppose the following input is supplied to the program:
+Hello world
+Practice makes perfect
+Then, the output should be:
+HELLO WORLD
+PRACTICE MAKES PERFECT
