@@ -1,0 +1,5 @@
+1.Divisor 
+2. String List 
+3.List Remove Duplicates 
+4.List end
+5.Pick word
