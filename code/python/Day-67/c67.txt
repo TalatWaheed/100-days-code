@@ -1,0 +1,5 @@
+1.Character Input 
+2.Even or Odd
+3.Check Primality Functions
+4.Password generator
+5.Check Primality Functions
