@@ -1,1 +1,9 @@
-Questions of python 
+1.Python Program that Displays which Letters are in the First String but not in the Second
+2.Python Program that Displays which Letters are Present in Both the Strings
+3.Python Program to Find the Total Sum of a Nested List Using Recursion
+4.Python Program to Find the Length of a List Using Recursion
+5.Python Program to Find the Fibonacci Series without Using Recursion
+6.Python Program to Find All Numbers which are Odd and Palindromes Between a Range of Numbers without using Recursion
+7.Python Program to Count the Occurrences of a Word in a Text File
+8.Python Program that Reads a Text File and Counts the Number of Times a Certain Letter Appears in the Text File
+9.Python Program to Count the Number of Blank Spaces in a Text File
