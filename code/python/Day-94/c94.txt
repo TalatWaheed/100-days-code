@@ -1,0 +1,6 @@
+1.NumPy array from the numerical ranges
+2.Python lexicographical order
+3.Python Dictionary to sum ASCII values
+4.Python to replace characters
+5.Python to sort out words in ascending order
+6.Python words starting with capital letters
