@@ -1,1 +1,8 @@
 Python Programs
+1.Programs for printing pyramid patterns in Python
+2.Print a number pattern using a for loop and range function
+3.Triangular half pyramid number pattern
+4.Program to print Full Triangle Pyramid pattern using an asterisk (star)
+5.Program to print half pyramid pattern using an asterisk (star)
+6.Program to print inverted half pyramid using an asterisk (star)
+7. to print an inverted half pyramid pattern using a number
