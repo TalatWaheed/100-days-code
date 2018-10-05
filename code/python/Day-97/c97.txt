@@ -1,0 +1,3 @@
+1.Program to print Full Triangle Pyramid pattern using an asterisk (star)
+2.Print Alphabets and Letters pattern in python
+Some Pattern Program in Python
