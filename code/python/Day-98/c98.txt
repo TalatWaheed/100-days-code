@@ -1,1 +1,4 @@
-python
+1.Python Programming Code to Check Reverse Equals Original
+2.Python Programming Code to Find Factors of Number
+3.Python Programming Code to Swap Two Variables
+4.Python Programming Code to Check Positive Negative Zero
