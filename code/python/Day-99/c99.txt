@@ -1,2 +1,7 @@
 1.Python Programming Code to Solve Quadratic Equation
 2.Python Programming Code to Calculate Circumference of Circle
+3.Python Programming Code to Perform Addition Subtraction Multiplication Division
+4.Python Programming Code to Print Floyd's Triangle
+5.Python Programming Code to Matrix Multiplication
+6.Python Pattern Program in different style
+7.python pattern program prints pyramid pattern of stars in different style
