@@ -1,1 +1,2 @@
-Python games and Pattern Programs
+Python games.
+Pattern Programs.
