@@ -1,5 +1,4 @@
-# Day 17 is free from Python or JavaScript. It's HTML and CSS actually.
-
+# Day 17 is free from Python or JavaScript. It's HTML and CSS actually
 1. Create a basic html page to your profile.
 Profile should include
 (a) Your Name
