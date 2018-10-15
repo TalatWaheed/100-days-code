@@ -1,4 +1,4 @@
-# day 16 programming problem for Python programmers.
+# day 16 programming problem for Python programmers
 
 1. Write a program that takes Students Data
     Name, Registration Number, Marks{Physics, Chemistry, Maths, Percentage in 12th}, Course Opted, flag{active/inactive}
@@ -8,7 +8,6 @@ This data should be stored in CSV file and write method to
   (ii) edit Data
   (iii) fetch Data
   (iv) make data active/inactive
-
 
 # Python has many modules that can used to handle CSV.
 
