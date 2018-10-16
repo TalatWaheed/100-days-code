@@ -1,2 +1,2 @@
-Python Questions
-1.Conversion of Binary,Octal,Hexadecimal
+Python Questions.
+1.Conversion of Binary,Octal,Hexadecimal.
