@@ -1,3 +1,4 @@
+Python Questions
 1.How iter() works in Python?
 2.How iter() works for custom objects?
 3.Create list from sequence: string, tuple and list
