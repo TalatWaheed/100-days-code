@@ -2,5 +2,5 @@ Python Questions
 1.How str() works in Python?
 2.How str() works for bytes?
 3.How sum() function works in Python?
-4.super() with Single Inheritance
-5.super() with Multiple Inheritance
+4.super() with Single Inheritance.
+5.super() with Multiple Inheritance.
