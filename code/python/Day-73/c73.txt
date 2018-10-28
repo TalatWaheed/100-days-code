@@ -1,2 +1,2 @@
 Python program
-Python games
+Python games.
