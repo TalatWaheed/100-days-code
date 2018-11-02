@@ -7,4 +7,4 @@ Python Programs
 6.Python Program to Find All Numbers which are Odd and Palindromes Between a Range of Numbers without using Recursion
 7.Python Program to Count the Occurrences of a Word in a Text File
 8.Python Program that Reads a Text File and Counts the Number of Times a Certain Letter Appears in the Text File
-9.Python Program to Count the Number of Blank Spaces in a Text File
+9.Python Program to Count the Number of Blank Spaces in a Text File.
