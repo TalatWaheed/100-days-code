@@ -3,4 +3,4 @@ Python Programs
 2.Python Program to Read a File and Capitalize the First Letter of Every Word in the File
 3.Python Program to Read the Contents of a File in Reverse Order
 4.Python Program to Read a Text File and Print all the Numbers Present in the Text File
-5.Python Program to Read a String from the User and Append it into a File
+5.Python Program to Read a String from the User and Append it into a File.
