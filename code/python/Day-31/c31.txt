@@ -1,2 +1,2 @@
 Questions
-1.Write a Python Program to Display the multiplication Table
+1.Write a Python Program to Display the multiplication Table.
