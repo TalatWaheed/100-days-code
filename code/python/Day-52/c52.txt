@@ -1,3 +1,4 @@
+Python Questions
 1.How int() works in Python?
 2.How int() works for decimal, octal and hexadecimal?
 3.int() for custom objects
