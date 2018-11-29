@@ -1,3 +1,4 @@
+Python Questions
 1.How locals() works in Python?
 2.How locals() works inside a local scope?
 3.Updating locals() dictionary values
