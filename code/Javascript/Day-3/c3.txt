@@ -1,2 +1,2 @@
 JavaScript Programs
-Write a program to Find even and odd number
+Write a program to Find even and odd number.
