@@ -1,1 +1,1 @@
-Javascript Operator.
+Javascript Operator
