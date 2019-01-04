@@ -1,4 +1,4 @@
 1.Logical Operator
 2.Bitwise Operator
 3.Arithmatic Operator
-4.Comparision operator
+4.Comparision operator.
