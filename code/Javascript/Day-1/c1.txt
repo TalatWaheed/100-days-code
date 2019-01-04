@@ -1,2 +1,2 @@
-JavaScript Programs
+JavaScript Programs.
 Write a program to print Hello World.
