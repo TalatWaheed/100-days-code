@@ -10,4 +10,4 @@ input 3: [0, 1, 2, 3, 4, 5, 6]
 output 3: 7
 
 
-2.Convert any positive integer to Binary number.
+2.Convert any positive integer to Binary number.....
