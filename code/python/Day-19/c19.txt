@@ -1,4 +1,4 @@
-Please solve below and give your reasoning for the same.
+Please solve below and give your reasoning for the same....
 
 1. > 3 + true = ?
 2. > true + false = ?
