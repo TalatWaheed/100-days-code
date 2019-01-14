@@ -1,4 +1,4 @@
-1. Find the smallest missing element in a sorted array.
+1. Find the smallest missing element in a sorted array...
 
 input 1: [0, 1, 2, 4, 7, 8]
 output 1: 3
