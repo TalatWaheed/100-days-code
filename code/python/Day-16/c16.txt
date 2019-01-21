@@ -12,4 +12,4 @@ This data should be stored in CSV file and write method to
 # Python has many modules that can used to handle CSV.
 
 // Note: You people can take more than one days to solve it. It is real life problem and
-now we shall start working on projects pretty soon.
+now we shall start working on projects pretty soon...
