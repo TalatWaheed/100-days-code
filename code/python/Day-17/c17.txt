@@ -8,4 +8,4 @@ Profile should include
 (e) Your Projects (optional)
 
 Then create a github repository (<your github username>.github.io) and put that profile as index.html there.
-Then your profile would come up like (chetanhere.github.io) . You can also check the code on my github profile.
+Then your profile would come up like (chetanhere.github.io) . You can also check the code on my github profile...
